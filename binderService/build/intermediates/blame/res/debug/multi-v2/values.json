@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidCode\\MobilePlayer\\binderService\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidCode\\MobilePlayer\\binderService\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,55",
+                        "endColumns": "50,46",
+                        "endOffsets": "148,97"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,46",
+                        "endOffsets": "101,148"
+                    }
+                }
+            ]
+        }
+    ]
+}

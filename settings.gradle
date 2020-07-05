@@ -1,0 +1,1 @@
+include ':app', ':StartAllPlayer', ':vitamio-sample', ':vitamio', ':xutils', ':xUtils3_sample', ':xListView', ':AgoraDemo', ':SurfaceViewDemo', ':binderService', ':tryEventBus_simple', ':EventBus-Sample', ':EventBus3.0_Sample', ':EventBus', ':SpeechDemo2', ':voicedialog', ':jcvideoplayer-lib'

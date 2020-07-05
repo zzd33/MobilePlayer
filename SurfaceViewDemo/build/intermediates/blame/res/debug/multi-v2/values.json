@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidCode\\MobilePlayer\\SurfaceViewDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidCode\\MobilePlayer\\SurfaceViewDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,106",
+                        "endColumns": "46,52",
+                        "endOffsets": "100,154"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,52",
+                        "endOffsets": "97,150"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidCode\\MobilePlayer\\SurfaceViewDemo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "155,446",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "441,601"
+                    }
+                }
+            ]
+        }
+    ]
+}

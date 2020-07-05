@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\binderService\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\binderService\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\binderService\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\binderService\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\binderService\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\binderService\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\binderService\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\binderService\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

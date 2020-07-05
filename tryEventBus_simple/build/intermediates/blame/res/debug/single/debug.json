@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\menu_second.xml.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "D:\\AndroidCode\\MobilePlayer\\tryEventBus_simple\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]
