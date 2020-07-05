@@ -1,5 +1,5 @@
 # MobilePlayer
-波波视频  <a href="www.jianshu.com/p/a8cb4b8f1fae">中文简体</a>
+波波视频  <a href="https://www.jianshu.com/p/a8cb4b8f1fae" target="_blank">中文简体</a>
 
 <div align="center">
 <img src="https://github.com/leonInShanghai/MobilePlayer/blob/master/otherImage/08.jpg" >
